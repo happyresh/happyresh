@@ -20,10 +20,10 @@ I'm a passionate **Junior Software Developer** from the **Philippines**, current
 
 ### 👨‍💻 What I'm Working On:
 
-🌐 Building my professional network.
-📈 Improving my technical skills.
-🛠️ Supporting events as a member of the **Programs and Activities Committee** for the **Institute of Bachelors in Information Technology Studies (IBITS)**
-🖋️ Leading content initiatives as **Content Writing Co-Lead** at **Google Developers Student Clubs - PUP Manila**.
+- 🌐 Building my professional network.
+- 📈 Improving my technical skills.
+- 🛠️ Supporting events as a member of the **Programs and Activities Committee** for the **Institute of Bachelors in Information Technology Studies (IBITS)**
+- 🖋️ Leading content initiatives as **Content Writing Co-Lead** at **Google Developers Student Clubs - PUP Manila**.
 
 ---
 
