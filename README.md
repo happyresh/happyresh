@@ -2,6 +2,10 @@
 
 I'm a passionate **Junior Software Developer** from the **Philippines**, currently studying **Information Technology** at **Polytechnic University of the Philippines (PUP)**. I strive to create impactful software and meaningful tech solutions. My focus lies in **cloud technologies**, **software development**, and **collaborative team projects**.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;I+am+a+Software+Developer!+%F0%9F%92%BB;Let's+create+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 ### 🌟 Highlights:
 - 🏆 **President's Lister** for the 1st and 2nd semester.
 - 🥇 **Technolympics 2024 Champion** with team Edogawa (A.Y. 2023-2024).
@@ -20,16 +24,17 @@ I'm a passionate **Junior Software Developer** from the **Philippines**, current
 - **Tools:** Git, GitHub
 
 ### 📫 Let's Connect!
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/recio-eliniel-932521291/) for collaborations, opportunities, or a chat about tech!
+- [LinkedIn](https://www.linkedin.com/in/recio-eliniel-932521291/)
+- [Facebook](https://www.facebook.com/happyreshh?mibextid=LQQJ4d)
+- [Instagram](https://www.instagram.com/happyresh?igsh=ZHF4OXpqNzh2am4x&utm_source=qr)
 
 ---
 
 ⚡️ "Innovation is the fuel for transformation."
 
 - 🔭 I’m currently working on my resume for this school year!
-- 🌱 I’m currently learning COBOL, SQL, and Networking for my second year college course.
-- 👯 I’m looking to collaborate on likeminded people.
+- 🌱 I’m currently learning COBOL, SQL, and Networking for my second-year college course.
+- 👯 I’m looking to collaborate with like-minded people.
 - 🤔 I’m looking for help with my professional growth.
 - 💬 Ask me about my interest in technology.
 - 😄 Pronouns: he/him
-
