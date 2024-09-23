@@ -31,6 +31,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/recio-eli
 - 👯 I’m looking to collaborate on likeminded people.
 - 🤔 I’m looking for help with my professional growth.
 - 💬 Ask me about my interest in technology.
-- 📫 How to reach me: 🔗
 - 😄 Pronouns: he/him
 
