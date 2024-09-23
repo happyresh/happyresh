@@ -28,16 +28,16 @@ I'm a passionate **Junior Software Developer** from the **Philippines**, current
 
 ### ⚡ Tech Stack & Tools:
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white" alt="C" width="80" height="40"/>
-  <img src="https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" width="80" height="40"/>
-  <img src="https://img.shields.io/badge/Language-Java-orange?logo=java&logoColor=white" alt="Java" width="80" height="40"/>
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white" alt="Python" width="80" height="40"/>
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="80" height="40"/>
-  <img src="https://img.shields.io/badge/Frontend-HTML-orange?logo=html5&logoColor=white" alt="HTML" width="80" height="40"/>
-  <img src="https://img.shields.io/badge/Frontend-CSS-blue?logo=css3&logoColor=white" alt="CSS" width="80" height="40"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white" alt="AWS" width="80" height="40"/>
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" alt="Git" width="80" height="40"/>
-  <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" alt="GitHub" width="80" height="40"/>
+  <img src="https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white" alt="C" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/Language-Java-orange?logo=java&logoColor=white" alt="Java" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white" alt="Python" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/Frontend-HTML-orange?logo=html5&logoColor=white" alt="HTML" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/Frontend-CSS-blue?logo=css3&logoColor=white" alt="CSS" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white" alt="AWS" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" alt="Git" width="100" height="40"/>
+  <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" alt="GitHub" width="100" height="40"/>
 </p>
 
 ---
