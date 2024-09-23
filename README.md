@@ -12,8 +12,8 @@ I'm a passionate **Junior Software Developer** from the **Philippines**, current
 - 🎓 Certificate in **CodeQuest - 30 Days in Software Development**.
 
 ### 👨‍💻 What I'm Working On:
-- Collaborating with a project team of 5 on an exciting proposal.
-- Building and contributing to cloud-based and open-source software.
+- Building my networks.
+- Improving my technical skills.
 - Supporting events as a member of the **Programs and Activities Committee** for the **Institute of Bachelors in Information Technology Studies (IBITS)**.
 
 ### ⚡ Tech Stack:
