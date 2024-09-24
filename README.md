@@ -72,7 +72,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
     </div>
     <!-- Most Used Languages Section -->
     <div style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 400px;"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 300px;"/>
     </div>
   </div>
 </div>
