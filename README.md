@@ -1,5 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&width=435&lines=Hello%2C+I+am+Recio+Eliniel;Welcome+to+my+GitHub+Profile;Let's+connect!" alt="Typing SVG" /></a>
+  <img src="![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)" alt="Profile Views" />
 </p>
 
 I'm a passionate student from the **Philippines**, currently studying **Information Technology** at **Polytechnic University of the Philippines (PUP)**. I strive to create impactful software and meaningful tech solutions. My focus lies in **cloud technologies**, **software development**, and **collaborative team projects**.
