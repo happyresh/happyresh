@@ -39,6 +39,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
   <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
 </p>
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1" alt="My Tech Stack" />
 
 ---
 
