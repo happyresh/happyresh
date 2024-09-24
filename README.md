@@ -64,15 +64,15 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 ### 🚀 My GitHub Stats:
 
 <div align="center">
-
-  <!-- Div for GitHub Stats and Top Languages side by side -->
+  <!-- GitHub Stats and Most Used Languages side by side -->
   <div style="display: flex; justify-content: center;">
+    <!-- GitHub Stats Section -->
     <div style="margin: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 400px;"/>
     </div>
+    <!-- Most Used Languages Section -->
     <div style="margin: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 400px;"/>
     </div>
   </div>
-
 </div>
