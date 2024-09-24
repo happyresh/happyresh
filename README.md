@@ -64,7 +64,8 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 ### 🚀 My GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 450px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 400px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 450px;"/>
+  <!-- Adjusting sizes uniformly and adding margin for spacing between the stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 400px; margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 400px; margin: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 400px; margin: 10px;"/>
 </div>
