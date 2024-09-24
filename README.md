@@ -64,8 +64,21 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 ### 🚀 My GitHub Stats:
 
 <div align="center">
-  <!-- Adjusting sizes uniformly and adding margin for spacing between the stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 400px; margin: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 300px; margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 400px; margin: 10px;"/>
+
+  <!-- GitHub Stats and Top Languages in a table -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 400px;"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 400px;"/>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- GitHub Streak below the table -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 400px; margin-top: 20px;"/>
+
 </div>
+
