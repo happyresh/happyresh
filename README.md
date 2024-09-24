@@ -28,18 +28,25 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 ---
 
 ### ⚡ Tech Stack & Tools:
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Language-Java-orange?logo=java&logoColor=white" alt="Java" />
-  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" />
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Frontend-HTML-orange?logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/Frontend-CSS-blue?logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
-</p>
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1" alt="My Tech Stack" />
+<div align="center">
+	<table>
+		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code></td>
+		</tr>
+		<tr>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code></td>
+			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
+		</tr>
+	</table>
+</div>
+
 
 ---
 
@@ -61,11 +68,13 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 - 💬 Ask me about my interest in technology.
 - 😄 Pronouns: **he/him**.
 
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 450px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 400px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 400px;"/>
 </div>
----
+
 
 ⚡️ *"Innovation is the fuel for transformation."*
