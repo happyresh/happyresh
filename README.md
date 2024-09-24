@@ -29,16 +29,16 @@ I'm a passionate **Junior Software Developer** from the **Philippines**, current
 
 ### ⚡ Tech Stack & Tools:
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white" alt="C" width="130" height="40"/>
-  <img src="https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" width="130" height="40"/>
-  <img src="https://img.shields.io/badge/Language-Java-orange?logo=java&logoColor=white" alt="Java" width="130" height="40"/>
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white" alt="Python" width="130" height="40"/>
-  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="130" height="40"/>
-  <img src="https://img.shields.io/badge/Frontend-HTML-orange?logo=html5&logoColor=white" alt="HTML" width="130" height="40"/>
-  <img src="https://img.shields.io/badge/Frontend-CSS-blue?logo=css3&logoColor=white" alt="CSS" width="130" height="40"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white" alt="AWS" width="130" height="40"/>
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" alt="Git" width="130" height="40"/>
-  <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" alt="GitHub" width="130" height="40"/>
+  <img src="https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Language-Java-orange?logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Frontend-HTML-orange?logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/Frontend-CSS-blue?logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ---
@@ -46,16 +46,16 @@ I'm a passionate **Junior Software Developer** from the **Philippines**, current
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/recio-eliniel-932521291/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" width="140" height="50"/></a>
-  <a href="https://www.facebook.com/happyreshh?mibextid=LQQJ4d"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" width="140" height="50"/></a>
-  <a href="https://www.instagram.com/happyresh?igsh=ZHF4OXpqNzh2am4x&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" width="140" height="50"/></a>
+  <a href="https://www.linkedin.com/in/recio-eliniel-932521291/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" </a>
+  <a href="https://www.facebook.com/happyreshh?mibextid=LQQJ4d"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/happyresh?igsh=ZHF4OXpqNzh2am4x&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
 ### 🔭 More About Me:
 
-- 🌱 I’m currently learning **COBOL**, **SQL**, and **Networking** for my second-year college course.
+- 🌱 I’m currently learning **COBOL**, **SQL**, **Networking**, and **Python** for my second-year college course.
 - 👯 I’m looking to collaborate with like-minded people.
 - 🤔 I’m looking for help with my professional growth.
 - 💬 Ask me about my interest in technology.
