@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&width=435&lines=Hello%2C+I+am+Recio+Eliniel;Welcome+to+my+GitHub+Profile;Let's+connect!" alt="Typing SVG" /></a>
 </p>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=happyresh&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=happyresh&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 
