@@ -36,7 +36,6 @@ I'm a passionate **Junior Software Developer** from the **Philippines**, current
   <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Frontend-HTML-orange?logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/Frontend-CSS-blue?logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Tools-GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
 </p>
