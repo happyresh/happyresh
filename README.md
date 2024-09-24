@@ -68,6 +68,3 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 400px;"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 450px;"/>
 </div>
-
-
-                         ⚡️*"Nothing is impossible! The word itself says, "I'm possible - Audrey Hepburn"* ⚡️
