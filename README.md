@@ -61,8 +61,8 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 - 😄 Pronouns: **he/him**.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=happyresh&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Eliniel's GitHub stats" width="450" height="250"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=happyresh&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Recio's GitHub stats" width="450" height="250"/>
+ <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Recio's's GitHub stats" width="450" height="250"/>
 </p>
 
 ---
