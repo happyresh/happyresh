@@ -63,7 +63,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 ---
 
-### https://icons8.com/icon/106562/github My GitHub Stats:
+### 🚀 My GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 450px;"/>
