@@ -8,7 +8,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 ---
 
-## 🌟 Highlights:
+### 🌟 Highlights:
 
 - 🏆 **President's Lister** for the 1st and 2nd semester.
 - 🥇 **Technolympics 2024 Champion** with team Edogawa (A.Y. 2023-2024).
@@ -18,7 +18,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 ---
 
-## 👨‍💻 What I'm Working On:
+### 👨‍💻 What I'm Working On:
 
 - 🌐 Building my professional network.
 - 📈 Improving my technical skills.
@@ -27,7 +27,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 ---
 
-## ⚡ Tech Stack & Tools:
+### ⚡ Tech Stack & Tools:
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
@@ -43,7 +43,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 ---
 
-## 📫 Let's Connect!
+### 📫 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/recio-eliniel-932521291/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -53,7 +53,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 ---
 
-## 🔭 More About Me:
+### 🔭 More About Me:
 
 - 🌱 I’m currently learning **COBOL**, **SQL**, **Networking**, and **Python** for my second-year college course.
 - 👯 I’m looking to collaborate with like-minded people.
