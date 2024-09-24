@@ -65,7 +65,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 <div align="center">
   <!-- Adjusting sizes uniformly and adding margin for spacing between the stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 400px; margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 250px; margin: 10px;"/>
 </div>
 
 ---
@@ -73,6 +73,6 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 ### 👾 Languages:
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 400px; margin: 10px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 200px; margin: 10px;"/>
 </div>
 
