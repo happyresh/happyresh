@@ -66,5 +66,5 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 <div align="center">
   <!-- Adjusting sizes uniformly and adding margin for spacing between the stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 300px; margin: 10px;"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 320px; margin: 10px;"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 315px; margin: 10px;"/>
 </div>
