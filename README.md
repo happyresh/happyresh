@@ -32,7 +32,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
   <img src="https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Language-Java-orange?logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" />
   <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Frontend-HTML-orange?logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/Frontend-CSS-blue?logo=css3&logoColor=white" alt="CSS" />
