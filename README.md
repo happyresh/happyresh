@@ -8,7 +8,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 ### 🌟 Highlights:
 
-- 🏆 **President's Lister** for the 1st and 2nd semester.
+- 🏆 **President's Lister** for the 1st and 2nd semester (A.Y. 2023-2024).
 - 🥇 **Technolympics 2024 Champion** with team Edogawa (A.Y. 2023-2024).
 - 💻 **Junior Software Developer** at **AWS Cloud Club - PUP Manila** (A.Y. 2023-2024).
 - 🚀 **Software Development Cadet** at **Google Developer Student Clubs - PUP Manila** (A.Y. 2023-2024).
