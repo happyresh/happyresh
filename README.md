@@ -60,7 +60,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 - 💬 Ask me about my interest in technology.
 - 😄 Pronouns: **he/him**.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 8px;">
   <div style="width: 200px;">
     <img src="https://github-readme-stats.vercel.app/api?username=happyresh&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Eliniel's GitHub stats" style="width:100%;"/>
   </div>
