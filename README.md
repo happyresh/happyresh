@@ -65,15 +65,13 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 <div align="center">
 
-  <!-- Table for GitHub Stats, Top Languages, and GitHub Streak -->
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 400px;"/>
-      </td>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 400px;"/>
-      </td>
-    </tr>
+  <!-- Div for GitHub Stats and Top Languages side by side -->
+  <div style="display: flex; justify-content: center;">
+    <div style="margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 400px;"/>
+    </div>
+    <div style="margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 400px;"/>
+    </div>
+  </div>
 </div>
-
