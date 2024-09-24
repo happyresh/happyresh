@@ -1,4 +1,7 @@
+
 # Hello, I'm Eliniel Recio! 👋
+
+---
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4091F7&background=F7FFEE00&width=435&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Let's+create+something+amazing!+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
@@ -8,7 +11,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 ---
 
-### 🌟 Highlights:
+## 🌟 Highlights:
 
 - 🏆 **President's Lister** for the 1st and 2nd semester.
 - 🥇 **Technolympics 2024 Champion** with team Edogawa (A.Y. 2023-2024).
@@ -18,7 +21,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 ---
 
-### 👨‍💻 What I'm Working On:
+## 👨‍💻 What I'm Working On:
 
 - 🌐 Building my professional network.
 - 📈 Improving my technical skills.
@@ -27,7 +30,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 ---
 
-### ⚡ Tech Stack & Tools:
+## ⚡ Tech Stack & Tools:
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
@@ -43,17 +46,17 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 ---
 
-### 📫 Let's Connect!
+## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/recio-eliniel-932521291/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" </a>
+  <a href="https://www.linkedin.com/in/recio-eliniel-932521291/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/happyreshh?mibextid=LQQJ4d"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/happyresh?igsh=ZHF4OXpqNzh2am4x&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-### 🔭 More About Me:
+## 🔭 More About Me:
 
 - 🌱 I’m currently learning **COBOL**, **SQL**, **Networking**, and **Python** for my second-year college course.
 - 👯 I’m looking to collaborate with like-minded people.
@@ -70,4 +73,4 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 </div>
 
 
-⚡️ *"Innovation is the fuel for transformation."*
+⚡️ *"Nothing is impossible! The word itself says, "I'm possible - Audrey Hepburn"* ⚡️
