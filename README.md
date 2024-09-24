@@ -68,7 +68,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
   <div style="display: flex; justify-content: center;">
     <!-- GitHub Stats Section -->
     <div style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 400px;"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 350px;"/>
     </div>
     <!-- Most Used Languages Section -->
     <div style="margin: 10px;">
