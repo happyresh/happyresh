@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;I+am+a+Software+Developer!+%F0%9F%92%BB;Let's+create+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-I'm a passionate **Junior Software Developer** from the **Philippines**, currently studying **Information Technology** at **Polytechnic University of the Philippines (PUP)**. I strive to create impactful software and meaningful tech solutions. My focus lies in **cloud technologies**, **software development**, and **collaborative team projects**.
+I'm a passionate student from the **Philippines**, currently studying **Information Technology** at **Polytechnic University of the Philippines (PUP)**. I strive to create impactful software and meaningful tech solutions. My focus lies in **cloud technologies**, **software development**, and **collaborative team projects**.
 
 ---
 
