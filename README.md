@@ -65,20 +65,22 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 <div align="center">
 
-  <!-- GitHub Stats and Top Languages in a table -->
-  <table>
+  <!-- Table for GitHub Stats, Top Languages, and GitHub Streak -->
+  <table style="border-collapse: collapse; border: none;">
     <tr>
-      <td>
+      <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api?username=happyresh&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 400px;"/>
       </td>
-      <td>
+      <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 400px;"/>
       </td>
     </tr>
+    <tr>
+      <td colspan="2" style="border: none; text-align: center;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 400px; margin-top: 20px;"/>
+      </td>
+    </tr>
   </table>
-  
-  <!-- GitHub Streak below the table -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 400px; margin-top: 20px;"/>
 
 </div>
 
