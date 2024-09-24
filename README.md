@@ -1,7 +1,4 @@
-
 # Hello, I'm Eliniel Recio! 👋
-
----
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=4091F7&background=F7FFEE00&width=435&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Let's+create+something+amazing!+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
