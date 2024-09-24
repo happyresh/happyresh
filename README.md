@@ -60,17 +60,12 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 - 💬 Ask me about my interest in technology.
 - 😄 Pronouns: **he/him**.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 8px;">
-  <div style="width: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=happyresh&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Eliniel's GitHub stats" style="width:50%;"/>
-  </div>
-  <div style="width: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=synthwave&hide_border=true" alt="Eliniel's Most Used Languages" style="width:50%;"/>
-  </div>
-  <div style="width: 200px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=synthwave&hide_border=true" alt="GitHub Streak" style="width:50%;"/>
-  </div>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=happyresh&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" style="width: 400px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=synthwave&hide_border=true" alt="Most Used Languages" style="width: 400px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=synthwave&hide_border=true" alt="GitHub Streak" style="width: 400px;"/>
 </div>
+
 
 ---
 
