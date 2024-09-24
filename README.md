@@ -60,14 +60,14 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 - 💬 Ask me about my interest in technology.
 - 😄 Pronouns: **he/him**.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px;">
-  <div style="width: 450px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px;">
+  <div style="width: 300px;">
     <img src="https://github-readme-stats.vercel.app/api?username=happyresh&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Eliniel's GitHub stats" style="width:100%;"/>
   </div>
-  <div style="width: 450px;">
+  <div style="width: 300px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=synthwave&hide_border=true" alt="Eliniel's Most Used Languages" style="width:100%;"/>
   </div>
-  <div style="width: 450px;">
+  <div style="width: 300px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=synthwave&hide_border=true" alt="GitHub Streak" style="width:100%;"/>
   </div>
 </div>
