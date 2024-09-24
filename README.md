@@ -60,11 +60,17 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 - 💬 Ask me about my interest in technology.
 - 😄 Pronouns: **he/him**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=happyresh&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Recio's GitHub stats" width="450" height="250"/>
- <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="Recio's's GitHub stats" width="450" height="250"/>
-  <img src= "https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=synthwave&hide_border=true" alt="Recio's's GitHub stats" width="450" height="250"/>
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px;">
+  <div style="width: 450px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=happyresh&theme=synthwave&show_icons=true&hide_border=true&count_private=true" alt="Eliniel's GitHub stats" style="width:100%;"/>
+  </div>
+  <div style="width: 450px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happyresh&layout=compact&theme=synthwave&hide_border=true" alt="Eliniel's Most Used Languages" style="width:100%;"/>
+  </div>
+  <div style="width: 450px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=happyresh&theme=synthwave&hide_border=true" alt="GitHub Streak" style="width:100%;"/>
+  </div>
+</div>
 
 ---
 
