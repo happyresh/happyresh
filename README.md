@@ -53,7 +53,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 ### 🔭 More About Me:
 
-- 🌱 I’m currently learning **COBOL**, **SQL**, **Networking**, and **Python** for my second-year college course.
+- 🌱 I’m currently learning **COBOL**, **SQL**, **Networking**, **Python** and **Digital Marketing & E-commerce** for my second-year college course.
 - 👯 I’m looking to collaborate with like-minded people.
 - 🤔 I’m looking for help with my professional growth.
 - 💬 Ask me about my interest in technology.
