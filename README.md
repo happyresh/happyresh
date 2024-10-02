@@ -20,7 +20,7 @@ I'm a passionate student from the **Philippines**, currently studying **Informat
 
 - 🌐 Building my professional network.
 - 📈 Improving my technical skills.
-- 🛠️ Officer in **Institute of Bachelors in Information Technology Studies (IBITS)**
+- 🛠️ Committee Head for **Programs & Activities** in **Institute of Bachelors in Information Technology Studies (IBITS)**
 - 🖋️ Leading content initiatives as **Content Writing Co-Lead** at **Google Developers Student Clubs - PUP Manila**.
 
 ---
